@@ -1,2 +1,2 @@
 # Python-HackerRank
-Python exercises
+Solutoin of Python exercises from HackerRank
